@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Angular + Node.js + Express",
-  "description": "An Angular app with Node.js back-end using Express 4 deployable to Heroku",
+  "name": "Start on Heroku: Node.js",
+  "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/l33t-systems/ng-express-heroku",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["angular", "node", "express", "heroku"],
+  "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
