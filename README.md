@@ -13,6 +13,7 @@ Run `ng build --prod` and then `npm start` for an api and front-end server. Navi
 ## Deployment
 
 Create a Heroku app with a single click:
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Code scaffolding
